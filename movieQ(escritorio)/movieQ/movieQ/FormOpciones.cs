@@ -55,7 +55,11 @@ namespace movieQ
             this.Hide();
         }
 
-        
-
+        private void buttonEstadisticas_Click(object sender, EventArgs e)
+        {
+            FormEstadisticas fe = new FormEstadisticas();
+            fe.Show();
+            this.Hide();
+        }
     }
 }

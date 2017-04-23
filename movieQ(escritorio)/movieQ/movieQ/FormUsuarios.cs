@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient;
 
 namespace movieQ
 {
@@ -22,7 +22,7 @@ namespace movieQ
         {
             FormOpciones fo = new FormOpciones();
             fo.Show();
-            this.Hide();      
+            this.Hide();
         }
 
         public void cargarUsuarios()
@@ -38,7 +38,7 @@ namespace movieQ
             //SqlConnection conexion = new SqlConnection();
             //SqlCommand sentencia = new SqlCommand();
             //SqlDataReader datos;
-            
+
 
             //conexion.ConnectionString = "Data Source=172.16.48.128\\sqlexpress;Initial Catalog=hoteles_basico;" +
             //    "Persist Security Info=True;User ID=sa;Password=cep";
@@ -133,6 +133,5 @@ namespace movieQ
             altaUsuari(textBoxNombre.Text, textBoxContraseña.Text);
         }
 
-      
+
     }
-}

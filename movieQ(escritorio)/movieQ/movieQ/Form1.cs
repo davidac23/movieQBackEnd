@@ -95,5 +95,25 @@ namespace movieQ
             }
             return usuarioCorrecto;
         }
+
+        private void textBoxUsuario_MouseClick(object sender, MouseEventArgs e)
+        {
+            labelUsuario.Visible = false;
+        }
+
+        private void textBoxContraseña_MouseClick(object sender, MouseEventArgs e)
+        {
+            labelContraseña.Visible = false;
+        }
+
+        private void labelUsuario_MouseClick(object sender, MouseEventArgs e)
+        {
+            labelUsuario.Visible = false;
+        }
+
+        private void labelContraseña_MouseClick(object sender, MouseEventArgs e)
+        {
+            labelContraseña.Visible = false;
+        }
     }
 }
