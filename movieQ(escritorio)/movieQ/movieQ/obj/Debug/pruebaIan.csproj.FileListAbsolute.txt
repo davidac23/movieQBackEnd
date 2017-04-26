@@ -9,3 +9,21 @@ C:\Users\davidac23\Downloads\PruebaIan\movieQ(escritorio)\movieQ\movieQ\obj\Debu
 C:\Users\davidac23\Downloads\PruebaIan\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormUsuarios.resources
 C:\Users\davidac23\Downloads\PruebaIan\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.Properties.Resources.resources
 C:\Users\davidac23\Downloads\PruebaIan\movieQ(escritorio)\movieQ\movieQ\obj\Debug\pruebaIan.csproj.GenerateResource.Cache
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\movieQ.exe.config
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.exe
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.pdb
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\movieQ.exe
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\movieQ.pdb
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\MySql.Data.dll
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\Google.Protobuf.dll
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\bin\Debug\MySql.Data.xml
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\pruebaIan.csprojResolveAssemblyReference.cache
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.Form1.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormEstadisticas.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormOpciones.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormPreguntas.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormEstadisticasUsuarios.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormUsuarios.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.Properties.Resources.resources
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\pruebaIan.csproj.GenerateResource.Cache
+C:\Users\davidac23\Desktop\MovieQ Proyecto\movieQBackEnd\movieQ(escritorio)\movieQ\movieQ\obj\Debug\movieQ.FormEstadisticasPreguntas.resources

@@ -16,5 +16,17 @@ namespace movieQ
         {
             InitializeComponent();
         }
+
+        private void buttonEstadisticasUsuarios_Click(object sender, EventArgs e)
+        {
+            FormEstadisticasUsuarios f = new FormEstadisticasUsuarios();
+            f.ShowDialog();
+        }
+
+        private void buttonPartida_Click(object sender, EventArgs e)
+        {
+            FormEstadisticasPreguntas fp = new FormEstadisticasPreguntas();
+            fp.ShowDialog();
+        }
     }
 }
